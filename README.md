@@ -1,3 +1,5 @@
+<a href="https://github.com/thesandi001/merchant-category-code/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/thesandi001/merchant-category-code"></a>
+
 mcc-codes
 =========
 
