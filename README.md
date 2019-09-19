@@ -34,13 +34,6 @@ Preferences for the "Edited Description":
 
 If the pull request is against the CSV I'll gladly update the binary formats. Or see below for how to update everything in one shot.
 
-Credits
-=======
-I'm building this to benefit the operations and users of https://www.card.com
-
-We may add more data to this at some point and will share updates. 
-Others (e.g. Expensify) are contributing fixes too. Thanks!
-
 Updating the files
 ==================
 1. Start with a csv file that is in a good state.
