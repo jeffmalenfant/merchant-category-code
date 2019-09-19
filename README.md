@@ -13,7 +13,9 @@ The same data is available in several formats:
 
 Installation
 ======
+```
 npm install @thesandi001/merchant-category-code
+```
 
 Fields
 ======
